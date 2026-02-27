@@ -1,1 +1,1 @@
-Script - Jogo RPG 🎮
+*Script - Jogo RPG 🎮*
